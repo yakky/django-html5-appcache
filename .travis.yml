@@ -22,4 +22,4 @@ notifications:
 
 matrix:
   exclude:
-    - python 2.6
+    - python: 2.6
